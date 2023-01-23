@@ -9,3 +9,6 @@ Next comes the welcome section which has vertically and horizontlly "TEDx VITBho
 Scrolling down, user will see the info about TED, TEDx and TEDxVITBhopal. The info is for getting the user to know the motto of TEDx Talk.
 With the use of the powerfull iframe, a video about TEDx Talks has also been added for giving the user the chance to engage in TEDx Talk.
 A map of VITBhopal also has been embeded in the page using iframe. 
+
+
+Screenshots of the website have been added in the repository for showing the visual look of website.
